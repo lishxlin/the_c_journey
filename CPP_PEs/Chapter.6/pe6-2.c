@@ -9,9 +9,7 @@ int main(void)
 	{
 		int_counting = 1;
 		while (int_counting++ <= ext_counting)
-		{
 			printf("%c", CHAR);
-		}
 		printf("\n");
 	}
 
