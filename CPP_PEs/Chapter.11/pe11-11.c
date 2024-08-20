@@ -74,3 +74,4 @@ void sort_by_ascii(const char str[][MAXCHAR])
 	for (int j = 0; j < 10; j++)
 		puts(strings[j]);
 }
+
