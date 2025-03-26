@@ -3,3 +3,4 @@
 tasks.json
 *.exe
 *.out
+.gdb_history
