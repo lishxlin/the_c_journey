@@ -17,7 +17,7 @@ int main(void)
 	while (IS_ENABLE) {
 		for (int i = 0; i < 10; i++)
 			fgets(string0[i], MAXCHAR - 1, stdin);
-	CHOOSE_START:
+CHOOSE_START:
 		puts("What you want to do next?");
 		puts("A. Print strings you type.");
 		puts("B. Sorting your strings by ASCII.");
